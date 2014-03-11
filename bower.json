@@ -1,0 +1,29 @@
+{
+  "name": "Shuffle",
+  "version": "2.0.5",
+  "homepage": "https://github.com/empiri-software/Shuffle",
+  "authors": [
+    "Christopher J Lyth <lyth_christopher@bah.com>"
+  ],
+  "main": "jquery.shuffle.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": ">=1.9"
+    },
+  "ignore": [
+    "**/.*",
+    "**/_*",
+    "css",
+    "img",
+    "js",
+    "config.rb",
+    "favicon.png",
+    "index.html",
+    "robots.txt",
+    "todo.md",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
